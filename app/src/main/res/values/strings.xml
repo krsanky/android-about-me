@@ -1,3 +1,5 @@
 <resources>
-    <string name="app_name">About Me</string>
+    <string name="app_name">!About Me!</string>
+    <string name="hello_world">Hello, WutWut!?</string>
+    <string name="name">Paul Wisehart</string>
 </resources>
